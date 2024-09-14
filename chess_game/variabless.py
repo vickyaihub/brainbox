@@ -1,0 +1,9 @@
+highlighted_boxes = []
+highlighted_boxes_coordinates = []
+image_position = []
+defeate_highlighted_pieces = []
+users_turn = []
+ai_turn = []
+user_vs_ai_turn = 'user'
+players_turn_color = 'beginning'
+ai_player_color = None
