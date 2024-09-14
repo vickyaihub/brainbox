@@ -1,0 +1,5 @@
+git init
+git remote set-url origin git@github.com:vickyaihub/brainbox.git
+git add .
+git commit -m "Added new features/files"
+git push -u origin master
